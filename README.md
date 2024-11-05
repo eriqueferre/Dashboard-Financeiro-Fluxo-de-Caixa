@@ -20,7 +20,7 @@ Este projeto apresenta um dashboard de análise financeira desenvolvido no Power
 
 Clique na imagem abaixo para acessar o dashboard interativo completo no Power BI:
 
-[![Visualizar Dashboard](screenshot.png)](https://app.powerbi.com/view?r=eyJrIjoiOGY3ZmYxMDctYzAzOS00YzI1LWIxNzgtMmQwY2QxZWU2MzNmIiwidCI6ImE4MGJmZGEzLTk4NTItNDBiNy1iYzljLWIxYWUyMzU2MmI4MCJ9
+[![Visualizar Dashboard](screenshot.png)](https://app.powerbi.com/view?r=eyJrIjoiOGY3ZmYxMDctYzAzOS00YzI1LWIxNzgtMmQwY2QxZWU2MzNmIiwidCI6ImE4MGJmZGEzLTk4NTItNDBiNy1iYzljLWIxYWUyMzU2MmI4MCJ9)
 
 ## Tecnologias Utilizadas
 - **Power BI**: Ferramenta de Business Intelligence para criação do dashboard.
